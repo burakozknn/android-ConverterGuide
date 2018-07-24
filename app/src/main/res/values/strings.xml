@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Converter Guide</string>
+
+    <string-array name="weight_array">
+
+        <item>pound-kilogram</item>
+        <item>pound-ounce</item>
+        <item>ounce-kilogram</item>
+
+    </string-array>
+
+    <string-array name="temperature_array">
+
+        <item>celsius-fahrenheit</item>
+        <item>celsius-kelvin</item>
+        <item>fahrenheit-kelvin</item>
+
+    </string-array>
+
+    <string-array name="height_array">
+
+        <item>foot-meter</item>
+        <item>inch-meter</item>
+        <item>foot-inch</item>
+
+    </string-array>
+
+
+    <string-array name="volume_array">
+
+        <item>gallon-liter</item>
+        <item>fluid oz-liter</item>
+        <item>gallon-fluid oz</item>
+
+    </string-array>
+
+    <string-array name="speed_array">
+
+        <item>mi/hr - km/hr</item>
+        <item>ft/sec - m/sec</item>
+
+    </string-array>
+
+    <string name="celsius">°C</string>
+    <string name="fahrenheit">°F</string>
+
+</resources>
